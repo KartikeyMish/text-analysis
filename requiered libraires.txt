@@ -1,0 +1,14 @@
+# Required libraries to be installed :
+
+nltk 
+goose3
+textblob
+
+
+# Install all the following by 
+
+!pip install nltk
+
+!pip install goose3
+
+!pip install textblob
